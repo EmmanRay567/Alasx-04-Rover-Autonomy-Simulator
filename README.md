@@ -1,6 +1,6 @@
 # Alasx-04-AI Space Rover-Autonomy-System
 
-A C++ autonomous space rover simulator featuring planet terrain selection, AI terrain analysis, battery management, object scanning, and real-time rover navigation using SFML.
+AI-powered autonomous rover built in C++ with terrain adaptation, environmental scanning, battery optimization, and navigation algorithms.
 
 ## Overview
 
