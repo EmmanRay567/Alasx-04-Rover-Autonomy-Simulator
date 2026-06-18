@@ -1,4 +1,4 @@
-# Alasx-04-AI Space Rover-Autonomy-System
+# Alasx-04-AI Space Rover 
 
 AI-powered autonomous rover built in C++ with terrain adaptation, environmental scanning, battery optimization, and navigation algorithms.
 
